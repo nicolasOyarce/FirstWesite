@@ -1,4 +1,4 @@
 # FirstWesite
-First web page created with css and html 
+First web page created with CSS and HTML
 
-Visit Web ==> https://nicolas-oyarce.netlify.app/
+Visit Website ==> https://nicolas-oyarce.netlify.app/
